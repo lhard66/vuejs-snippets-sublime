@@ -1,0 +1,25 @@
+{
+  "name": "vuejs-snippets-sublime",
+  "version": "1.0.0",
+  "description": "Vuejs snippets for Sublime Text",
+  "main": "vuejs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/filipelinhares/vuejs-sublime-snippets.git"
+  },
+  "keywords": [
+    "javascript",
+    "sublime",
+    "text",
+    "snippets"
+  ],
+  "author":
+    ["Filipe Linhares"],
+    ["Tiago"],
+	["Liu TianQing"]
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lhard66/vuejs-snippets-sublime/issues"
+  },
+  "homepage": "https://github.com/lhard66/vuejs-snippets-sublime"  
+}
