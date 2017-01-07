@@ -1,4 +1,4 @@
-#[Vue](http:www.vuejs.org) Snippets for Sublime Text
+#[Vue](http:www.vuejs.org) Snippets for Sublime Text(此版本专为国人打造)
 
 ###Global:
 
@@ -32,10 +32,10 @@
 
 * **v-bind** - :prop="data"
 * **v-el** - v-el:el-name
-* **v-else** - &lt;div v-else&gt;
-* **v-for** - &lt;div v-for="item in items"&gt;
-* **v-if** - &lt;div v-if=""&gt;
-* **v-link** - &lt;a v-link=""&gt;
+* **v-else** - v-else
+* **v-for** - v-for="item in items"
+* **v-if** - v-if=""
+* **v-link** - v-link=""
 * **v-on** - @evt="callback"
 * **v-ref** - v-ref:ref-name
 
