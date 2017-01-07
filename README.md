@@ -1,5 +1,15 @@
 #[Vue](http:www.vuejs.org) Snippets for Sublime Text(此版本专为国人打造)
 
+###介绍
+Vue代码提示的Sublime插件，专为国人打造。  
+参考GitHub库：https://github.com/filipelinhares/vuejs-sublime-snippets.git  
+
+###安装说明
+1. Crtl + Shift + p 调出 package control，输入 add repository，回车。  
+2. 输入 github 仓库地址：https://github.com/lhard66/vuejs-snippets-sublime  
+3. Crtl + Shift + p 调出 package control，输入 install package，回车。  
+4. 输入 github 仓库的名称：vuejs-snippets-sublime，注意选择对应的地址插件。  
+
 ###Global:
 
 * **v**
