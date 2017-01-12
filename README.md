@@ -45,6 +45,7 @@ Vue代码提示的Sublime插件，专为国人打造。
 * **v-else** - v-else
 * **v-for** - v-for="item in items"
 * **v-if** - v-if=""
+* **v-model** - v-model=""
 * **v-link** - v-link=""
 * **v-on** - @evt="callback"
 * **v-ref** - v-ref:ref-name
