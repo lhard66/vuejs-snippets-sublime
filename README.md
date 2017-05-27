@@ -10,6 +10,9 @@ Vue代码提示的Sublime插件，专为国人打造。
 3. Crtl + Shift + p 调出 package control，输入 install package，回车。  
 4. 输入 github 仓库的名称：vuejs-snippets-sublime，注意选择对应的地址插件。  
 
+###注意
+若安装过插件后需要更新，请先移除remove package，然后重新安装插件。
+
 ###Global:
 
 * **v**
@@ -45,6 +48,8 @@ Vue代码提示的Sublime插件，专为国人打造。
 * **v-else** - v-else
 * **v-for** - v-for="item in items"
 * **v-if** - v-if=""
+* **v-text** - v-text=""
+* **v-html** - v-html=""
 * **v-model** - v-model=""
 * **v-link** - v-link=""
 * **v-on** - @evt="callback"
