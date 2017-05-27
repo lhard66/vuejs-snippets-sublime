@@ -1,19 +1,19 @@
-#[Vue](http:www.vuejs.org) Snippets for Sublime Text(此版本专为国人打造)
+# [Vue](http:www.vuejs.org) Snippets for Sublime Text(此版本专为国人打造)
 
-###介绍
+### 介绍
 Vue代码提示的Sublime插件，专为国人打造。  
 参考GitHub库：https://github.com/filipelinhares/vuejs-sublime-snippets.git  
 
-###安装说明
+### 安装说明
 1. Crtl + Shift + p 调出 package control，输入 add repository，回车。  
 2. 输入 github 仓库地址：https://github.com/lhard66/vuejs-snippets-sublime  
 3. Crtl + Shift + p 调出 package control，输入 install package，回车。  
 4. 输入 github 仓库的名称：vuejs-snippets-sublime，注意选择对应的地址插件。  
 
-###注意
+### 注意  
 若安装过插件后需要更新，请先移除remove package，然后重新安装插件。
 
-###Global:
+### Global:
 
 * **v**
 * **vue** - Vue instance
@@ -21,7 +21,7 @@ Vue代码提示的Sublime插件，专为国人打造。
 * **vuef** - Vue filter
 * **vuenexttick** - Vue.nextTick()
 
-###Component + Options/Data
+### Component + Options/Data
 
 * **vuec** - Vue component
 * **vueccomputed** - Vue computed props
@@ -31,17 +31,17 @@ Vue代码提示的Sublime插件，专为国人打造。
 * **vuecprops** - Vue component props
 * **vuecwatch** - Vue component watch
 
-###Vue Resource
+### Vue Resource
 
 * **vueht** - this.$http()
 * **vuehtget** - this.$http.get()
 * **vuehtpost** - this.$http.post()
 
-###Vue Router
+### Vue Router
 * **vuert** - this.$route
 * **vuertgo** - this.$route.router.go()
 
-###Directives:
+### Directives:
 
 * **v-bind** - :prop="data"
 * **v-el** - v-el:el-name
@@ -55,6 +55,6 @@ Vue代码提示的Sublime插件，专为国人打造。
 * **v-on** - @evt="callback"
 * **v-ref** - v-ref:ref-name
 
-##Update
+## Update
 
 Just Remove and Install again.
